@@ -24,6 +24,6 @@ CS 211: Programming Practicum
 
 Visiting Lectures:
 ===============
-CS 586: Date and Web Semantics
+CS 586: Date and Web Semantics  
 I taught lectures for ontology engineer and ontology matching related topics.
 
