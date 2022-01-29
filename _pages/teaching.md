@@ -18,11 +18,12 @@ CS 586: Data and Web Semantics
 
 Undergraduate Courses
 ---------------
-CS 111: Program Design I
-CS 141: Program Design II
+CS 111: Program Design I  
+CS 141: Program Design II  
 CS 211: Programming Practicum
 
 Visiting Lectures:
 ===============
-CS 586: Date and Web Semantics.
+CS 586: Date and Web Semantics
+I taught lectures for ontology engineer and ontology matching related topics.
 
