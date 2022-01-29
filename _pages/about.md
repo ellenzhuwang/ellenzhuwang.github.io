@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhu Wang"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,5 +13,5 @@ Hi, my name is Zhu(Ellen) Wang. I am currently a Ph.D student in the Department 
 
 My research interests are primarily in Deep Learning models and Graph Mining. Particularly, I am working on their interdisciplinary field therein to solve image classification, object detecation and ontology matching related tasks.
 
-From one of my advisor Prof. Cruz favorirate quotes:
-"Have no fear of perfection; you’ll never reach it.'' --Marie Curie
+                                          From one of my advisor Prof. Cruz favorirate quotes:
+                                "Have no fear of perfection; you’ll never reach it.'' --Marie Curie
