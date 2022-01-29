@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 1"
+title: "Ontology Matching "
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/AMD
+excerpt: 'Knowledge Graph Embedding with Bootstrapping for Deep Matching'
+date: 2021-10-27
+venue: 'OM@ISWC'
+paperurl: 'http://ellenzhuwang.github.io/files/files/oaei21_paper3.pdf'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+AgreementMakerDeep (AMD) is a new flexible and extensible ontology matching system with knowledge graph embedding techniques. AMD learns from classes and their relations between classes by constructing vector representations into the low dimensional embedding space with knowledge graph embedding methods. The results demonstrate that AMD achieves a competitive performance in a few OAEI tracks, but AMD has limitations for property and instance matching.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Achievement
+======
+AMD is among the top fastest system in this Anatomy track.
+Other performance can be found [here](http://oaei.ontologymatching.org/2021/)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+*This work is dedicated to the memory of Isabel F. Cruz.
