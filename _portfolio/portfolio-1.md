@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Best memories in ADVIS Lab"
+excerpt: "For Prof. Cruz"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+![We were at SIGSPATIAL2017 ](https://user-images.githubusercontent.com/10067151/151650598-4c4d6465-7119-4bfd-ab7a-94fd4f882cee.jpg)
+![ADVIS group photo taken at SEO 1220](https://user-images.githubusercontent.com/10067151/151650651-6e8f17a5-d903-4e19-b27b-f4a4b9c08dfd.PNG)
+![Prof. Cruz Distinguished Researcher of the Year Award ceremony ](https://user-images.githubusercontent.com/10067151/151650679-58aeba53-7afa-4a5f-9965-d929ee00f0a7.PNG)
