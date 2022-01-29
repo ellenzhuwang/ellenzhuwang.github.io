@@ -2,7 +2,6 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "CS course"
-permalink: 
 venue: "University of Illinois at Chicago, Dept of Computer Science"
 date: "Since 2016"
 location: "Chicago, IL"
