@@ -9,9 +9,9 @@ redirect_from:
 ---
 Biography
 ======
-Hi, my name is Zhu(Ellen) Wang. I am currently a Ph.D student in the Department of Computer Science at the University of Illinois at Chicago.I work at [ADVIS Lab](https://www.cs.uic.edu/~ifc/advis.html), advised by Prof. [Isabel Cruz](https://www.cs.uic.edu/Cruz/).
+Hi, my name is Zhu(Ellen) Wang. I am currently a Ph.D student in the Department of Computer Science at the University of Illinois at Chicago.I work at [ADVIS Lab](https://www.cs.uic.edu/~ifc/advis.html), advised by Prof. [Isabel Cruz](https://www.cs.uic.edu/Cruz/)(In Memoriam).
 
 My research interests are primarily in Deep Learning models and Graph Mining. Particularly, I am working on their **interdisciplinary** field therein to solve image classification, object detecation and ontology matching related tasks.
 
-<center>From one of my advisor Prof. Cruz favorirate quotes:</center>
+<center>From one of my advisor Prof. Cruz's favoriate quotes:</center>
 <center>"Have no fear of perfection; you’ll never reach it." --Marie Curie</center>
