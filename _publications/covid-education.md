@@ -5,7 +5,7 @@ permalink: /publications/covid-education
 excerpt: 'Our study is about several aspects, including psychological categories, which capture emotion, social relationships, and individual differences.'
 date: 2020-11-03.
 venue: 'Proceedings of the 1st ACM SIGSPATIAL International Workshop on Modeling and Understanding the Spread of COVID-19'
-paperurl: https://github.com/ellenzhuwang/ellenzhuwang.github.io/blob/586bec7597106a3ffd55497702c31fa9930c1891/files/oaei21_paper3.pdf
+paperurl: https://ellenzhuwang.github.io/files/SIGSPATIAL_COVID_Workshop_Paper4.pdf
 
 ---
 Abstract
