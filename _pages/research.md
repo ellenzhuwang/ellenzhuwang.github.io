@@ -24,3 +24,7 @@ Past Projects:
 
   1. Impact of COVID-19 on Education Based on Geotagged Twitter [[paper]](https://jiayuasu.github.io/covid19-workshop/COVID_files/SIGSPATIAL_COVID_Workshop_Paper4.pdf) [[UIC CS News]](https://cs.uic.edu/news-stories/cruz-wang-use-big-data-to-track-the-impact-of-the-pandemic-on-college-towns/)
   2. Exploring Yelp Data to Predict Foodborne Illness in Chicago Area [[paper]](https://ellenzhuwang.github.io/files/Yelp_analysis.pdf)
+
+Service:
+===============
+Reviwers: AISTAT2023, ICAT2021
