@@ -8,11 +8,13 @@ author_profile: true
 On-going Projects:
 ===============
 > Multimodal analysis of Vision-and-Language Models [under review]
+   
+   1. Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis [[paper]](https://arxiv.org/pdf/2302.05608.pdf)
 
 > Ontology matching with deep models:
 
    1. Boostrapping using knowledge graph embedding [[paper]](https://ellenzhuwang.github.io/files/oaei21_paper3.pdf) [[code]](https://github.com/ellenzhuwang/AgreementMakerDeep) [[OEAI2021]](http://oaei.ontologymatching.org/2021/)
-   2. Using large pre-training languange models [OAEI2022]
+   2. Using large pre-training languange models [[paper]](http://disi.unitn.it/~pavel/om2022/papers/oaei22_paper3.pdf)[[OAEI2022]](https://oaei.ontologymatching.org/2022/)
   
 Past Projects:
 ===============
