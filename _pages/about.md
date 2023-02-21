@@ -13,5 +13,4 @@ Hi, my name is Zhu(Ellen) Wang. I am currently a Ph.D student in the Department 
 
 My research interests are primarily in Deep Learning models and Graph Mining. Particularly, I am working on their **interdisciplinary** field therein to solve vision and language related tasks, such as VQA and visual reasoning.
 
-<center>From one of my advisor Prof. Cruz's favorite quotes:</center>
 <center>"Have no fear of perfection; you’ll never reach it." --Marie Curie</center>
