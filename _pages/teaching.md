@@ -27,3 +27,5 @@ Visiting Lectures:
 CS 586: Date and Web Semantics  
 I taught lectures for ontology engineer and ontology matching related topics.
 
+CS 412: Introduction to Machine Learning
+I taught lectures for ML coding tutorials and decision trees.
