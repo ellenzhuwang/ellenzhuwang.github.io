@@ -27,4 +27,4 @@ Past Projects:
 
 Service:
 ===============
-Reviwers: AISTAT2023, ICAT2021
+Reviewers: AISTAT2023, ICAT2021
