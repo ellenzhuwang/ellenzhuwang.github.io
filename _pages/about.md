@@ -14,3 +14,11 @@ Hi, my name is Zhu(Ellen) Wang. I am currently a Ph.D student in the Department 
 My research interests are primarily in Deep Learning models and Graph Mining. Particularly, I am working on their **interdisciplinary** field therein to solve vision and language related tasks, such as VQA and visual reasoning.
 
 <center>"Have no fear of perfection; you’ll never reach it." --Marie Curie</center>
+
+# Updates
+
+* **[09/2023]** New paper is accepted by NeurIPS23! 🆕
+* **[08/2023]** New paper is accepted by OM2023 long paper!🆕
+* **[10/2022]** Participate OAEI2022
+* **[05/2022]** Start research intern at CCCIS
+* **[10/2021]** Participate OAEI2021
