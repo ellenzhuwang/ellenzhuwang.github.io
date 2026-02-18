@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Zhu (Ellen)
-middle_name: 
+title: Elen Wang # the website title (if blank, full name will be used instead)
+first_name: Zhu 
+middle_name: "Ellen"
 last_name: Wang
 contact_note: >
   I’m always happy to discuss research ideas, collaborations, or opportunities related to AI for scientific discovery — drop me an email! 
@@ -147,9 +147,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/blog.md
-  - _posts/
-  - _projects/
 
 keep_files:
   - CNAME
