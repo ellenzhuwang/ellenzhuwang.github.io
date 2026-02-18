@@ -37,21 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "news-officially-graduated-ph-d-thesis",
+        },{id: "news-officially-graduated-ph-d-thesis",
           title: '🎓 Officially graduated! 📘 Ph.D. Thesis',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-at-acl-2025-patent-survey-acl-long-empathic-generation-findings",
