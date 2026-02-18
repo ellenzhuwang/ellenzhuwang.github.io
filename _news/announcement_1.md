@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our target unlearning paper got accepted at [TMLR](https://openreview.net/forum?id=XE0bJg6sQN&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)!
+✅ Our target unlearning paper has been accepted at **TMLR**: [OpenReview](https://openreview.net/forum?id=XE0bJg6sQN&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))!
