@@ -409,12 +409,10 @@ ninja.data = [{
       },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-designclip-accepted-at-emnlp-2025-findings-paper-code-model",
+          title: '🔥 DesignCLIP accepted at EMNLP 2025 (Findings)! 📄 Paper · 💻 Code ·...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-our-target-unlearning-paper-has-been-accepted-at-tmlr-openreview",
+          section: "News",},{id: "news-our-target-unlearning-paper-has-been-accepted-at-tmlr-openreview",
           title: '✅ Our target unlearning paper has been accepted at TMLR: OpenReview!',
           description: "",
           section: "News",},{id: "teachings-data-science-fundamentals",
