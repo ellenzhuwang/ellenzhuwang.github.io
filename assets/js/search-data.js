@@ -406,8 +406,8 @@ ninja.data = [{
             window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
           
         },
-      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+      },{id: "news-two-papers-accepted-at-acl-2025-patent-survey-acl-long-empathic-generation-findings",
+          title: '🎉 Two papers accepted at ACL 2025! 📄 Patent Survey (ACL Long) ·...',
           description: "",
           section: "News",},{id: "news-designclip-accepted-at-emnlp-2025-findings-paper-code-model",
           title: '🔥 DesignCLIP accepted at EMNLP 2025 (Findings)! 📄 Paper · 💻 Code ·...',
