@@ -406,7 +406,10 @@ ninja.data = [{
             window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
           
         },
-      },{id: "news-two-papers-accepted-at-acl-2025-patent-survey-acl-long-empathic-generation-findings",
+      },{id: "news-officially-graduated-ph-d-thesis",
+          title: '🎓 Officially graduated! 📘 Ph.D. Thesis',
+          description: "",
+          section: "News",},{id: "news-two-papers-accepted-at-acl-2025-patent-survey-acl-long-empathic-generation-findings",
           title: '🎉 Two papers accepted at ACL 2025! 📄 Patent Survey (ACL Long) ·...',
           description: "",
           section: "News",},{id: "news-designclip-accepted-at-emnlp-2025-findings-paper-code-model",
