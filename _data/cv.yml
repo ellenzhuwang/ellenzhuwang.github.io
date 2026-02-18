@@ -17,16 +17,22 @@ cv:
       - institution: University of Illinois at Chicao
         area: Computer Science
         location: Chicago,IL
+        start_date: 2016
+        end_date: 2025
         studyType: PhD
 
       - institution: University of Pittsburgh
         area: Information Science
         location: Pittsburgh,PA
+        start_date: 2013
+        end_date: 2015
         studyType: Master
 
       - institution: Northeastern University
         area: Management Information System
         location: Shenyang,China
+        start_date: 2008
+        end_date: 2012
         studyType: Bachelor 
 
 
