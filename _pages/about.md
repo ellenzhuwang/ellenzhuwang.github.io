@@ -26,7 +26,7 @@ Hi, I’m Zhu (Ellen) Wang. I am a Postdoctoral Scholar at Northwestern Universi
 
 My research lies at the intersection of deep learning and network science. I study multimodal AI systems that integrate vision, language, and structured knowledge to support robust reasoning across domains. My work spans vision–language modeling, optimization and efficient learning, knowledge graph and applications of scientific and technological systems.
 
-More broadly, I focus on **AI for scientific discovery** — developing systems that model and reason over complex knowledge structures in science.
+**I am on the academic job market! [Research statement](/assets/pdf/Research_Statement.pdf)**
 
 <center>"Have no fear of perfection; you’ll never reach it." --Marie Curie</center>
 
