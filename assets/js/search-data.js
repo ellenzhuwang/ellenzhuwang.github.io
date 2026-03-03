@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "I hope to work with students who want to build AI systems that are not just accurate, but also understandable, responsible, and genuinely useful :seedling:.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "news-officially-graduated-ph-d-thesis",
           title: '🎓 Officially graduated! 📘 Ph.D. Thesis',
