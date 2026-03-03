@@ -24,9 +24,9 @@ nav_order: 4
 **Mentoring**
 
 - Gyeongeun Lee, UIC CS Ph.D
-- Homaira Huda Shomee, UIC CS Ph.D
+- [Homaira Huda Shomee](https://hhshomee.github.io), UIC CS Ph.D
 - George Nahass, UIC College of Medicine MSTP
-- Harsh Mishra, UIC CS Master -> Machine Learning Engineer @ KnetMiner
+- [Harsh Mishra](https://harshm16.github.io), UIC CS Master -> Machine Learning Engineer @ Aston Villa Football Club
 - Raj Mehta, UIC CS Master -> Discovery Partners Institute
 - Praveen Raj Veluswami, UIC CS Master
 - Nicolo Vacis, UIC CS Master
