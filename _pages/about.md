@@ -22,11 +22,6 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="width: 180px; margin-top: 10px; float: right; transform: scale(0.8); transform-origin: top right;">
-  <script type="text/javascript" id="mapmyvisitors"
-    src="//mapmyvisitors.com/map.js?d=1VnPZadftGnvev4YDLORuwZ2lCFCy6ZxrUzwOoFk2ac&cl=ffffff&w=200">
-  </script>
-</div>
 
 Hi, I’m Zhu (Ellen) Wang. I am a Postdoctoral Scholar at Northwestern University, working with Prof. [Brian Uzzi](https://www.kellogg.northwestern.edu/faculty/uzzi/htm/index.htm). I received my Ph.D. in Computer Science from the University of Illinois at Chicago. During my doctoral studies, I was affiliated with the [ADVIS Lab](https://www.cs.uic.edu/~ifc/advis.html) and was advised by Prof. [Isabel Cruz](https://www.cs.uic.edu/Cruz/) (In Memoriam) on ontology matching. I later worked with Prof. [Saythi Ravi](https://sathya-uic.github.io/) on multimodal vision–language models.
 
