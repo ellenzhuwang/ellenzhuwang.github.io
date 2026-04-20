@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-20'
 papers:
   mMyQX4oAAAAJ:0EnyYjriUFMC:
     citations: 31
@@ -10,7 +10,7 @@ papers:
     title: 'DESIGNCLIP: Multimodal Learning with CLIP for Design Patent Understanding'
     year: '2025'
   mMyQX4oAAAAJ:IjCSPb-OGe4C:
-    citations: 18
+    citations: 19
     title: AMD results for OAEI 2022.
     year: '2022'
   mMyQX4oAAAAJ:LkGwnXOMwfcC:
@@ -34,7 +34,7 @@ papers:
     title: 'EmpatheticFIG at WASSA 2024 empathy and personality shared task: Predicting empathy and emotion in conversations with figurative language'
     year: '2024'
   mMyQX4oAAAAJ:Y0pCki6q_DkC:
-    citations: 7
+    citations: 8
     title: Contextualized structural self-supervised learning for ontology matching
     year: '2023'
   mMyQX4oAAAAJ:YsMSGLbcyi4C:
