@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-08-25 16:11:00-0400
+date: 2025-12-09 15:59:00-0400
 inline: true
 related_posts: false
 ---
-🔥 **DesignCLIP accepted at [EMNLP 2025 (Findings)](https://aclanthology.org/2025.findings-emnlp.553/)!** 📄 [Paper](https://aclanthology.org/2025.findings-emnlp.553/) · 💻 [Code](https://github.com/AI4Patents/DesignCLIP) · 🤗 [Model](https://huggingface.co/patentclip/PatentCLIP_Vit_B)
 
+✅ Our target unlearning paper has been accepted at **TMLR**: [OpenReview](https://openreview.net/forum?id=XE0bJg6sQN&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))!
