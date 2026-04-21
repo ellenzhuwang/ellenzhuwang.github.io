@@ -43,7 +43,7 @@ ninja.data = [{
           title: '✅ Our target unlearning paper has been accepted at TMLR: OpenReview!',
           description: "",
           section: "News",},{id: "news-trizbench-accepted-at-acl-2026-findings-paper-code-dataset-if-you-re-interested-in-triz-inventive-problem-solving-innovation-patents-or-llms-for-technical-reasoning-feel-free-to-reach-out-or-chat-with-me-at-acl-see-you-in-san-diego",
-          title: '🧠 TRIZBench accepted at ACL 2026 (Findings)! 📄 [Paper] · 💻 Code ·...',
+          title: '🧠 TRIZBench accepted at ACL 2026 (Findings)! 📄 Paper · 💻 Code ·...',
           description: "",
           section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
