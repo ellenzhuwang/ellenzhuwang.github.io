@@ -7,4 +7,4 @@ related_posts: false
 
 🧠 TRIZBench accepted at ACL 2026 (Findings)! 📄 [Paper]() · 💻 [Code](https://github.com/ellenzhuwang/trizbench) · 🤗 [Dataset]()
 
-If you’re interested in TRIZ, inventive problem solving, innovation, patents, or LLMs for technical reasoning, feel free to reach out or chat with me at ACL. See you in San Diego!
+- If you’re interested in TRIZ, inventive problem solving, innovation, patents, or LLMs for technical reasoning, feel free to reach out or chat with me at ACL. See you in San Diego!
