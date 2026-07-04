@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow, <a href='https://nico.northwestern.edu/'>Northwestern University</a>.
+subtitle: Research Assistant Professor, <a href='https://nico.northwestern.edu/'>Northwestern University</a>.
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Zhu (Ellen) Wang. I am a Postdoctoral Scholar at Northwestern University, working with Prof. [Brian Uzzi](https://www.kellogg.northwestern.edu/faculty/uzzi/htm/index.htm). I received my Ph.D. in Computer Science from the University of Illinois at Chicago. During my doctoral studies, I was affiliated with the [ADVIS Lab](https://www.cs.uic.edu/~ifc/advis.html) and was advised by Prof. [Isabel Cruz](https://www.cs.uic.edu/Cruz/) (In Memoriam) on ontology matching. I later worked with Prof. [Saythi Ravi](https://sathya-uic.github.io/) on multimodal vision–language models.
+Hi, I’m Zhu (Ellen) Wang. I am a Research Assistant Professor at Northwestern University and the [Northwestern Institute on Complex Systems](https://www.nico.northwestern.edu), working with Prof. [Brian Uzzi](https://www.kellogg.northwestern.edu/faculty/uzzi/htm/index.htm). I received my Ph.D. in Computer Science from the University of Illinois at Chicago. During my doctoral studies, I was affiliated with the [ADVIS Lab](https://www.cs.uic.edu/~ifc/advis.html) and was advised by Prof. [Isabel Cruz](https://www.cs.uic.edu/Cruz/) (In Memoriam) on ontology matching and knowledge graph. I later worked with Prof. [Saythi Ravi](https://sathya-uic.github.io/) on multimodal vision–language models and optimization.
 
 My research lies at the intersection of deep learning and network science. I study multimodal AI systems that integrate vision, language, and structured knowledge to support robust reasoning across domains. My work spans vision–language modeling, optimization and efficient learning, knowledge graph and applications of scientific and technological systems.
 
