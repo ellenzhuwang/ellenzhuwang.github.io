@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-07-06'
 papers:
   mMyQX4oAAAAJ:0EnyYjriUFMC:
-    citations: 37
+    citations: 43
     title: 'A survey on patent analysis: From nlp to multimodal ai'
     year: '2025'
   mMyQX4oAAAAJ:5nxA0vEk-isC:
     citations: 0
     title: 'DESIGNCLIP: Multimodal Learning with CLIP for Design Patent Understanding'
     year: '2025'
+  mMyQX4oAAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: 'Inventive Problem Solving with LLMs: A Benchmark for TRIZ Reasoning'
+    year: '2026'
   mMyQX4oAAAAJ:IjCSPb-OGe4C:
-    citations: 22
+    citations: 23
     title: AMD results for OAEI 2022.
     year: '2022'
   mMyQX4oAAAAJ:LkGwnXOMwfcC:
