@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-03'
 papers:
   mMyQX4oAAAAJ:0EnyYjriUFMC:
-    citations: 45
+    citations: 46
     title: 'A survey on patent analysis: From nlp to multimodal ai'
     year: '2025'
   mMyQX4oAAAAJ:5nxA0vEk-isC:
     citations: 0
-    title: 'DESIGNCLIP: Multimodal Learning with CLIP for Design Patent Understanding'
+    title: 'DesignCLIP: Multimodal Learning with CLIP for Design Patent Understanding.'
     year: '2025'
   mMyQX4oAAAAJ:8k81kl-MbHgC:
     citations: 0
     title: 'Inventive Problem Solving with LLMs: A Benchmark for TRIZ Reasoning'
     year: '2026'
   mMyQX4oAAAAJ:IjCSPb-OGe4C:
-    citations: 24
+    citations: 25
     title: AMD results for OAEI 2022.
     year: '2022'
   mMyQX4oAAAAJ:LkGwnXOMwfcC:
@@ -22,11 +22,11 @@ papers:
     title: 'Impact: a large-scale integrated multimodal patent analysis and creation dataset for design patents'
     year: '2024'
   mMyQX4oAAAAJ:Se3iqnhoufwC:
-    citations: 1
+    citations: 2
     title: Targeted Unlearning Using Perturbed Sign Gradient Methods With Applications On Medical Images
     year: '2025'
   mMyQX4oAAAAJ:UeHWp8X0CEIC:
-    citations: 11
+    citations: 12
     title: AgreementMakerDeep results for OAEI 2021.
     year: '2021'
   mMyQX4oAAAAJ:UebtZRa9Y70C:
@@ -34,19 +34,19 @@ papers:
     title: 'Semantic-Driven Multimodal Learning: Gradient-Based Methods and Applications'
     year: '2025'
   mMyQX4oAAAAJ:WF5omc3nYNoC:
-    citations: 3
+    citations: 2
     title: 'EmpatheticFIG at WASSA 2024 empathy and personality shared task: Predicting empathy and emotion in conversations with figurative language'
     year: '2024'
   mMyQX4oAAAAJ:Y0pCki6q_DkC:
-    citations: 10
+    citations: 11
     title: Contextualized structural self-supervised learning for ontology matching
     year: '2023'
   mMyQX4oAAAAJ:YsMSGLbcyi4C:
-    citations: 5
+    citations: 6
     title: Implicit differentiable outlier detection enable robust deep multimodal analysis
     year: '2023'
   mMyQX4oAAAAJ:hqOjcs7Dif8C:
-    citations: 2
+    citations: 4
     title: 'From heart to words: Generating empathetic responses via integrated figurative language and semantic context signals'
     year: '2025'
   mMyQX4oAAAAJ:qjMakFHDy7sC:
@@ -55,7 +55,7 @@ papers:
     year: '2020'
   mMyQX4oAAAAJ:roLk4NBRz8UC:
     citations: 1
-    title: Optimizing Neural Network Training and Quantization with Rooted Logistic Objectives
+    title: Optimizing Neural Network Training and Quantization with Rooted Logistic Objectives.
     year: '2025'
   mMyQX4oAAAAJ:u-x6o8ySG0sC:
     citations: 8
