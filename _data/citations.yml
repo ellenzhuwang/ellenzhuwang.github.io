@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-21'
 papers:
   mMyQX4oAAAAJ:0EnyYjriUFMC:
-    citations: 47
+    citations: 48
     title: 'A survey on patent analysis: From nlp to multimodal ai'
     year: '2025'
   mMyQX4oAAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: 'Semantic-Driven Multimodal Learning: Gradient-Based Methods and Applications'
     year: '2025'
   mMyQX4oAAAAJ:WF5omc3nYNoC:
-    citations: 2
+    citations: 3
     title: 'EmpatheticFIG at WASSA 2024 empathy and personality shared task: Predicting empathy and emotion in conversations with figurative language'
     year: '2024'
   mMyQX4oAAAAJ:Y0pCki6q_DkC:
@@ -46,7 +46,7 @@ papers:
     title: Implicit differentiable outlier detection enable robust deep multimodal analysis
     year: '2023'
   mMyQX4oAAAAJ:hqOjcs7Dif8C:
-    citations: 4
+    citations: 5
     title: 'From heart to words: Generating empathetic responses via integrated figurative language and semantic context signals'
     year: '2025'
   mMyQX4oAAAAJ:qjMakFHDy7sC:
